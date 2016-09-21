@@ -1,6 +1,6 @@
 <?php
 
-include var.php;
+include('var.php');
 
 echo 'ola '.$smundo.'!';
 
