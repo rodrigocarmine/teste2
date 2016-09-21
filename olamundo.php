@@ -1,5 +1,7 @@
 <?php
 
-echo 'ola mundo!';
+include var.php;
+
+echo 'ola '.$smundo.'!';
 
 ?>
